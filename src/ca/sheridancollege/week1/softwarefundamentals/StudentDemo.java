@@ -13,7 +13,7 @@ public class StudentDemo
 {
   private String studentID;
   private String name;
-  private String program;
+  private String program; //added
   
   /**
    * A constructor to pass in the given ID and then name
